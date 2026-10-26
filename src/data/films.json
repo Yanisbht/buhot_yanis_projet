@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "titre": "Les Anges déchus",
+    "realisateur": "Wong Kar-wai",
+    "genre": "Drame",
+    "version": "VOSTFR",
+    "duree": 99,
+    "synopsis": "Destins croisés dans la nuit de Hong Kong entre un tueur à gages et sa partenaire.",
+    "horaires": ["18:00", "20:30", "22:15"]
+  },
+  {
+    "id": "2",
+    "titre": "Anatomie d'une chute",
+    "realisateur": "Justine Triet",
+    "genre": "Thriller",
+    "version": "VF",
+    "duree": 151,
+    "synopsis": "Une femme est soupçonnée du meurtre de son mari, retrouvé mort au pied de leur chalet.",
+    "horaires": ["14:00", "17:30", "21:00"]
+  },
+  {
+    "id": "3",
+    "titre": "Perfect Days",
+    "realisateur": "Wim Wenders",
+    "genre": "Drame",
+    "version": "VOSTFR",
+    "duree": 124,
+    "synopsis": "Le quotidien paisible d'un nettoyeur de toilettes à Tokyo, rythmé par la musique et la lecture.",
+    "horaires": ["16:15", "19:45"]
+  },
+  {
+    "id": "4",
+    "titre": "Le Règne Animal",
+    "realisateur": "Thomas Cailley",
+    "genre": "Fantastique",
+    "version": "VF",
+    "duree": 128,
+    "synopsis": "Dans un monde frappé par une vague de mutations, un père et son fils fuient vers le sud.",
+    "horaires": ["15:30", "20:00"]
+  },
+  {
+    "id": "5",
+    "titre": "Past Lives",
+    "realisateur": "Celine Song",
+    "genre": "Romance",
+    "version": "VOSTFR",
+    "duree": 106,
+    "synopsis": "Deux amis d'enfance sud-coréens se retrouvent à New York des décennies plus tard.",
+    "horaires": ["18:30", "21:15"]
+  },
+  {
+    "id": "6",
+    "titre": "Dune : Deuxième Partie",
+    "realisateur": "Denis Villeneuve",
+    "genre": "Science-Fiction",
+    "version": "VOSTFR",
+    "duree": 166,
+    "synopsis": "Paul Atreides s'unit aux Fremen pour mener la rébellion contre les Harkonnen.",
+    "horaires": ["13:30", "17:00", "20:45"]
+  },
+  {
+    "id": "7",
+    "titre": "Chien de la casse",
+    "realisateur": "Jean-Baptiste Durand",
+    "genre": "Comédie dramatique",
+    "version": "VF",
+    "duree": 93,
+    "synopsis": "L'amitié fusionnelle entre deux jeunes de village est mise à l'épreuve.",
+    "horaires": ["14:15", "18:45"]
+  },
+  {
+    "id": "8",
+    "titre": "Parasite",
+    "realisateur": "Bong Joon-ho",
+    "genre": "Thriller",
+    "version": "VOSTFR",
+    "duree": 132,
+    "synopsis": "Une famille pauvre s'infiltre dans la vie d'une famille riche, avec des conséquences inattendues.",
+    "horaires": ["19:15", "22:00"]
+  }
+]

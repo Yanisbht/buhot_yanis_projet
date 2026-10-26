@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rouge-velours: #8b0000;
+  --color-rouge-hover: #6b0000;
+  --color-creme: #fcfaf4;
+  --color-creme-carte: #ffffff;
+  --color-noir-anthracite: #1c1917;
+  --color-texte-gris: #57534e;
+  --color-or-vieilli: #d4af37;
+  --color-bordure: #e7e5e4;
+}
+
+body {
+  background-color: var(--color-creme);
+  color: var(--color-noir-anthracite);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
